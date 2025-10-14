@@ -10,7 +10,7 @@ This repository contains the data, input files, and results for the simulations 
     - the `.xml` model file for NEML
     - an example script to run the simulations
 - `microstructureData/` contains
-    - the simulated microstructure data in a `.txt` file
+    - the simulated microstructure data in a compressed `.txt.zst` file. To extract use: ```zstd -d RVE.txt.zst -o RVE.txt```
     - a `.csv` file where each line contains the Bunge euler angles for the grain ID matching the line number
     - a `.e` exodus mesh file of generated from the microstructure
     - a `.tex` orientation file containing orientations for each grain in the mesh
