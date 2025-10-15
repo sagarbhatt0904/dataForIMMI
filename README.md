@@ -1,7 +1,9 @@
-# Data for the paper 
-## *"Modeling the Impact of Grain Morphology and Porosity on Creep Anisotropy in Laser Powder Bed Fusion Materials"*
-*Sagar Bhatt, Tianchen Hu and Mark Messner<br>
-Applied Materials Division<br> Argonne National Laboratory*
+# Modeling the Impact of Grain Morphology and Porosity on Creep Anisotropy in Laser Powder Bed Fusion Materials
+
+## Data for the paper
+
+**Sagar Bhatt, Tianchen Hu, Mark Messner**  
+Applied Materials Division, Argonne National Laboratory
 
 This repository contains the data, input files, and results for the simulations presented in the paper. These simulations were conducted using the MOOSE based CPFEM framework DEER (https://github.com/Argonne-National-Laboratory/deer), which utilizes the constitutive material models from NEML (https://github.com/Argonne-National-Laboratory/neml)
 
