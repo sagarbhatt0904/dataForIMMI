@@ -16,7 +16,6 @@ This repository contains the data, input files, and results for the simulations 
     - a `.csv` file where each line contains the Bunge euler angles for the grain ID matching the line number
     - a `.e` exodus mesh file of generated from the microstructure
     - a `.tex` orientation file containing orientations for each grain in the mesh
-    - a python script to generate the `.tex` file for the mesh from the microstructure data
 - `simulationResults/` contains the creep results. 
     - the top level folder names indicate the loading directions
     - under each top level folder, the subfolder names indicate the initial cavity size $a_0$
